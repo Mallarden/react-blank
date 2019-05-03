@@ -1,2 +1,2 @@
 # React-blank wip
-Working on a personal boilerplate
+Working on a personal React boilerplate.
